@@ -1,4 +1,4 @@
-# game-opengl | FLAPLULA
+# game-opengl-isometric
 Projeto de um game isométrico, destinado para realização do trabalho da disciplina de Processamento Gráfico, Unisinos 2018-1.
 
 Alunos: Pablo; Savanna.
