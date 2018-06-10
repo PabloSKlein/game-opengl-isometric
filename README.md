@@ -1,5 +1,5 @@
 # game-opengl-isometric
-Projeto de um game isométrico, destinado para realização do trabalho da disciplina de Processamento Gráfico, Unisinos 2018-1.
+Projeto de um game modelo isométrico, destinado para realização do trabalho da disciplina de Processamento Gráfico, Unisinos 2018-1.
 
 Alunos: Pablo; Savanna.
 
