@@ -1,7 +1,5 @@
-# game-opengl | FLAPLULA
-Projeto de um game, destinado para realização do trabalho da disciplina de Processamento Gráfico, Unisinos 2018-1.
-
-Game estilo Flappy Bird, em que usamos o contexto da política brasileira, para ilustrar os atuais acontecimentos.
+# game-opengl-isometric
+Projeto de um game modelo isométrico, destinado para realização do trabalho da disciplina de Processamento Gráfico, Unisinos 2018-1.
 
 Alunos: Pablo; Savanna.
 
@@ -11,21 +9,6 @@ Alunos: Pablo; Savanna.
 - Modern OpenGL
 - Programa Visual Studio 2017
 - Demais bibliotecas usadas com OpenGL (consultar código)
-
-### Start Game
-
-![StartGame](Jogo/textures/StartGame.jpg)
-
-
-### Simulação do Jogo
-
-![SimulacaoJogo](readme_images/Simulacao-Jogo.png)
-
-
-### Game Over
-
-![StartGame](Jogo/textures/GameOver.jpg)
-
 
 ------------------------------------------------------------------------------------------------------------------
 
